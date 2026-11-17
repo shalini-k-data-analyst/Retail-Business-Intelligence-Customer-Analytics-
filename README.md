@@ -60,3 +60,19 @@ Dashboard screenshots are available in this repository.
 Conclusion
 
 This project demonstrates practical skills in data cleaning, exploratory data analysis, business intelligence, KPI reporting, and data visualization using Excel, Python, and Power BI.
+
+
+Project Files
+
+Excel Workbook
+
+"Download Online Retail Excel Workbook" (
+https://docs.google.com/spreadsheets/d/1vAI2oYVkd6MinQf5KUref0wzldiGNHfm/edit?usp=drivesdk&ouid=101437462854980371008&rtpof=true&sd=true) 
+
+Python Notebook
+
+Available in this repository.
+
+Power BI Dashboard
+
+Available in this repository.
